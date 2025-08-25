@@ -1,0 +1,1 @@
+[{"domain":"localhost","udp_port":2280}]
